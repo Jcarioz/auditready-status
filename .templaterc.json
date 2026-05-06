@@ -1,3 +1,15 @@
-{
-  "files": [".github/**/*"]
-}
+owner: Jcarioz
+repo: auditready-status
+sites:
+  - name: AuditReady App
+    url: https://auditready.it
+  - name: AuditReady Health
+    url: https://auditready.it/api/health?deep=0
+status-website:
+  cname: status.auditready.it
+  name: AuditReady Status
+  logoUrl: https://auditready.it/logo.svg
+  theme: light
+notifications:
+  - type: email
+    email: claudio.carioni@technologica.it
