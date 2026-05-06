@@ -4,19 +4,19 @@
     "url": "https://auditready.it",
     "icon": "https://icons.duckduckgo.com/ip3/auditready.it.ico",
     "slug": "audit-ready-app",
-    "status": "down",
-    "uptime": "8.48%",
-    "uptimeDay": "8.48%",
-    "uptimeWeek": "8.48%",
-    "uptimeMonth": "8.48%",
-    "uptimeYear": "8.48%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
+    "time": 1059,
+    "timeDay": 1059,
+    "timeWeek": 1059,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2026-05-06": 4
+      "2026-05-06": 151
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auditready.it.ico",
     "slug": "audit-ready-health",
     "status": "down",
-    "uptime": "8.79%",
-    "uptimeDay": "8.79%",
-    "uptimeWeek": "8.79%",
-    "uptimeMonth": "8.79%",
-    "uptimeYear": "8.79%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 4
+      "2026-05-06": 151
     }
   }
 ]
